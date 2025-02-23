@@ -26,7 +26,7 @@ To get started, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JKS9/ts-npm-starter.git my-module
+   git clone https://github.com/JKS9/ts-npm-starter.git
    ```
 
 2. Navigate to the project directory:
